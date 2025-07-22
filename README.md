@@ -59,3 +59,5 @@ Expense_Tracker ┣ 📄 expense_tracker.cpp ┗ 📄 expenses.txt (auto-created
 ## 🔑 Keywords
 
 `C++`, `File Handling`, `Expense Tracker`, `CLI`, `Finance`, `Personal Projects`, `DSA`, `Beginner Projects`
+
+📱 All done on phone using Cxxdroid app. No laptop used.
